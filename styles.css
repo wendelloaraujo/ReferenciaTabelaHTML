@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gainsboro;
+}
+
+h2 {
+    color: rebeccapurple;
+}
+
+table {
+    margin: 0 auto;
+    border: solid 2px darkorchid;
+}
+
+table th {
+    background-color: plum;
+    margin: 10px;
+    font-weight: bold;
+}
+
+tr td {
+    text-align: left;
+    border-top: 1px solid violet;
+}
+
+.fundobranco {
+    background-color: white;
+}
